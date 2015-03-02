@@ -676,4 +676,17 @@ $LNG['month_9'] = "Septembre";
 $LNG['month_10'] = "Octobre";
 $LNG['month_11'] = "Novembre";
 $LNG['month_12'] = "Décembre";
+
+// GROUP
+
+$LNG['group_desc_new'] = "Créer un groupe";
+$LNG['group_name'] = "Nom du groupe";
+$LNG['group_sub_name'] = "Indiquer le nom du groupe";
+$LNG['group_privacy'] = "Confidentialité";
+$LNG['group_sub_privacy'] = "Confidentialité du groupe";
+$LNG['group_members'] = "Membres";
+$LNG['group_sub_members'] = "Qui voulez-vous ajouter au groupe?";
+$LNG['group_description'] = "Description";
+$LNG['group_sub_description'] = "A propos du groupe";
+
 ?>

@@ -31,6 +31,7 @@ $action = array('admin'			=> 'admin',
 				'profile'		=> 'profile',
 				'notifications'	=> 'notifications',
 				'search'		=> 'search',
-				'page'			=> 'page'
+				'page'			=> 'page',
+                'group'         => 'group'
 				);
 ?>
