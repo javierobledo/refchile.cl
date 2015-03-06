@@ -9,3 +9,4 @@ cache
 .Trashes
 ehthumbs.db
 Thumbs.db
+includes/config.php
