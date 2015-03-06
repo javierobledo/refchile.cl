@@ -13,7 +13,7 @@ $CONF['name'] = 'phpdolphin';
 
 // The Installation URL
 //$CONF['url'] = 'http://www.refchile.cl';
-$CONF['url'] = 'http://localhost/~jrobledo/refchile.cl';
+$CONF['url'] = 'http://201.239.165.253/refchile.cl';
 
 // The Notifications e-mail
 $CONF['email'] = 'notifications@refchile.cl';
