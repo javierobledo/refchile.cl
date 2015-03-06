@@ -11,5 +11,5 @@ ehthumbs.db
 Thumbs.db
 config.php
 config.php*
-includes/config.php
-includes/config.php*
+/includes/config.php
+/includes/config.php*
