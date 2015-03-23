@@ -150,6 +150,7 @@
         }
         
         function getViewMessages($type, $typeVal) {
+            global $LNG;
             $rows = $this->messages;
             // QUERY: Holds the query string
             // TYPE: [loadTimeline, loadFeed, loadProfile, loadHashtags]

@@ -13,3 +13,4 @@ config.php
 config.php*
 /includes/config.php
 /includes/config.php*
+.idea
